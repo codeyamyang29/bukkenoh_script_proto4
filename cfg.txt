@@ -1,0 +1,2 @@
+saveLocation=C:\laragon\www
+gitRepositoryUrl=https://bukkenoh.backlog.com/git/S0414/dworks-fudousan.com.git
