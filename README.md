@@ -24,6 +24,6 @@ For smooth setup, install all the necessary requirement.
 * setup is finished but the browser can't find the url?
   + : restart laragon so that it will create a VHOST config for the newly added project.
 * laravel error
-  + : type in the url -> `/cmd/makecache`. Make sure the env is already modified with correct details (USER_ID and STORE_ID) and PHP Version must be 7 ~ 7.2.
+  + : type in the url -> `/cmd/makecache`. Make sure the env is already modified with correct details (USER_ID and STORE_ID) and PHP Version must be 8.1.x.
 * `/cmd/makecache` route doesn't exist?
   + : check if .htaccess exist in the root of the project folder.
